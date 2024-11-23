@@ -2,6 +2,7 @@ Global AI Hub | Veri Analizi Bootcamp eğitimi sonunda verilen proje kapsamında
 Bu veri setini incelerken bir çok yeni bilgi edindim ve bu süreçten çok keyif aldım.
 
 Projemi incelerken aşağıdaki adımları takip ettim.
+<br>
 İçerik:
 1. Verinin Hazırlanması
 2. Veriye İlk Bakış
